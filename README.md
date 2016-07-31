@@ -202,11 +202,11 @@ Now all common logic described in `./lib/*.js`, and database-specific stuff in `
 
 If you have found a bug please write unit test, and make sure all other tests still pass before pushing code to repo.
 
-## Recommend extensions
+## Recommended extensions
 
 - [TrinteJS - Javascrpt MVC Framework for Node.JS](http://www.trintejs.com/)
-- [Cross-db Session Storage for ExpressJS](https://github.com/biggora/express-mongodb)
-- [MongoDB Session Storage for ExpressJS](https://github.com/biggora/connect-caminte)
+- [Cross-db Session Storage for ExpressJS](https://github.com/biggora/connect-caminte)
+- [MongoDB Session Storage for ExpressJS](https://github.com/biggora/express-mongodb)
 - [Middleware exposing user-agent for NodeJS](https://github.com/biggora/express-useragent)
 - [Uploading files middleware for NodeJS](https://github.com/biggora/express-uploader)
 - [2CO NodeJS adapter for 2checkout API payment gateway](https://github.com/biggora/2co)
